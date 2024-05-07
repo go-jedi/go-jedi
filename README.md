@@ -43,4 +43,9 @@ Here are some ideas to get you started:
 
 ### Github stats
 
+<!--🐱CAT-->
+<p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+<br/>
 <img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=go-jedi&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="go-jedi">
